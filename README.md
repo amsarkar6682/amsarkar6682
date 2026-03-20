@@ -47,7 +47,7 @@ I build Flutter & FlutterFlow apps, sell UI templates on the marketplace, and sh
 
 <table style="border:none;border-collapse:collapse"><tr style="border:none">
 <td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api?username=amsarkar6682&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=250"/></td>
-<td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsarkar6682&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=250"/></td>
+<td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsarkar6682&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=250&hide=objective-c"/></td>
 <td style="border:none;padding:0"><img src="https://streak-stats.demolab.com?user=amsarkar6682&theme=tokyonight&hide_border=true&card_width=250"/></td>
 </tr></table>
 
