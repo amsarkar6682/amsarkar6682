@@ -60,6 +60,5 @@ I build Flutter & FlutterFlow apps, sell UI templates on the marketplace, and sh
 
 ### 🤝 Let's work together
 
-- 💼 Open for freelance FlutterFlow projects · **$20/hr**
 - 📧 [support@appgenz.com](mailto:support@appgenz.com)
 - 💬 [WhatsApp](https://wa.me/919932797131)
