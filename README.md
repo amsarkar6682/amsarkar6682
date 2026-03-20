@@ -33,22 +33,23 @@ I build Flutter & FlutterFlow apps, sell UI templates on the marketplace, and sh
 
 ### 📦 Marketplace templates
 
-| Template | Description | Tech Stack | Size | Platform |
-|:---------|:------------|:-----------|:----:|:--------:|
-| 📱 **Intake** | AI nutrition & fitness tracker | Flutter · Firebase · Gemini AI · RevenueCat | Full app | iOS & Android |
-| 💘 **Flingr** | Dating app UI · Marketplace bestseller | FlutterFlow · Firebase Auth | 115+ pages | iOS & Android |
-| 🛍 **NeoMart** | Modern e-commerce UI system | FlutterFlow · Firestore | — | iOS & Android |
-| 📚 **Bookify** | Clean bookstore UI template | FlutterFlow | 19 pages | iOS & Android |
-| 💸 **Expense Tracker** | Full finance UI · 141 components | FlutterFlow · Firebase | 84 pages | iOS & Android |
+| Template | Description | Tech Stack | Platform | Link |
+|:---------|:------------|:-----------|:--------:|:----:|
+| 📱 **Intake** | AI nutrition & fitness tracker | Flutter · Firebase · Gemini AI · RevenueCat | iOS & Android | [Open](#) |
+| 💘 **Flingr** | Dating app UI · Marketplace bestseller | FlutterFlow · Firebase Auth | iOS & Android | [Open](#) |
+| 🛍 **NeoMart** | Modern e-commerce UI system | FlutterFlow · Firestore | iOS & Android | [Open](#) |
+| 📚 **Bookify** | Clean bookstore UI template | FlutterFlow | iOS & Android | [Open](#) |
+| 💸 **Expense Tracker** | Full finance UI · 141 components | FlutterFlow · Firebase | iOS & Android | [Open](#) |
 
 ---
 
 ### 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=amsarkar6682&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsarkar6682&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=amsarkar6682&theme=tokyonight&hide_border=true)
+<table style="border:none;border-collapse:collapse"><tr style="border:none">
+<td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api?username=amsarkar6682&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=250"/></td>
+<td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsarkar6682&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=250"/></td>
+<td style="border:none;padding:0"><img src="https://streak-stats.demolab.com?user=amsarkar6682&theme=tokyonight&hide_border=true&card_width=250"/></td>
+</tr></table>
 
 ---
 
