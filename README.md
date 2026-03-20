@@ -53,6 +53,11 @@ I build Flutter & FlutterFlow apps, sell UI templates on the marketplace, and sh
 
 ---
 
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amsarkar6682&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=true&days=365)
+
+
 ### 🤝 Let's work together
 
 - 💼 Open for freelance FlutterFlow projects · **$20/hr**
