@@ -33,13 +33,13 @@ I build Flutter & FlutterFlow apps, sell UI templates on the marketplace, and sh
 
 ### 📦 Marketplace templates
 
-| Template | Description | Size |
-|:---------|:------------|-----:|
-| 📱 **Intake** | AI nutrition & fitness tracker · full app | Live app |
-| 💘 **Flingr** | Dating app UI | 115+ pages |
-| 🛍 **NeoMart** | E-commerce UI | — |
-| 📚 **Bookify** | Bookstore UI | 19 pages |
-| 💸 **Expense Tracker** | Finance UI · 141 components | 84 pages |
+| Template | Description | Tech Stack | Size | Platform |
+|:---------|:------------|:-----------|:----:|:--------:|
+| 📱 **Intake** | AI nutrition & fitness tracker | Flutter · Firebase · Gemini AI · RevenueCat | Full app | iOS & Android |
+| 💘 **Flingr** | Dating app UI · Marketplace bestseller | FlutterFlow · Firebase Auth | 115+ pages | iOS & Android |
+| 🛍 **NeoMart** | Modern e-commerce UI system | FlutterFlow · Firestore | — | iOS & Android |
+| 📚 **Bookify** | Clean bookstore UI template | FlutterFlow | 19 pages | iOS & Android |
+| 💸 **Expense Tracker** | Full finance UI · 141 components | FlutterFlow · Firebase | 84 pages | iOS & Android |
 
 ---
 
