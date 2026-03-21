@@ -7,7 +7,7 @@ I build Flutter & FlutterFlow apps, sell UI templates on the marketplace, and sh
 [![YouTube](https://img.shields.io/badge/YouTube-APPGENZ-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@appgenz)
 [![Email](https://img.shields.io/badge/Email-support%40appgenz.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:support@appgenz.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919932797131)
-![Views](https://komarev.com/ghpvc/?username=amsarkar6682&style=flat-square&color=blue&label=profile+views)
+![Views](https://komarev.com/ghpvc/?username=amsarkar66&style=flat-square&color=blue&label=profile+views)
 
 ---
 
@@ -46,16 +46,16 @@ I build Flutter & FlutterFlow apps, sell UI templates on the marketplace, and sh
 ### 📊 Stats
 
 <table style="border:none;border-collapse:collapse"><tr style="border:none">
-<td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api?username=amsarkar6682&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=250"/></td>
-<td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsarkar6682&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=250&hide=objective-c"/></td>
-<td style="border:none;padding:0"><img src="https://streak-stats.demolab.com?user=amsarkar6682&theme=tokyonight&hide_border=true&card_width=250"/></td>
+<td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api?username=amsarkar66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=250"/></td>
+<td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsarkar66&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=250&hide=objective-c"/></td>
+<td style="border:none;padding:0"><img src="https://streak-stats.demolab.com?user=amsarkar66&theme=tokyonight&hide_border=true&card_width=250"/></td>
 </tr></table>
 
 ---
 
 ### 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amsarkar6682&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=true&days=365)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amsarkar66&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=true&days=365)
 
 
 ### 🤝 Let's work together
