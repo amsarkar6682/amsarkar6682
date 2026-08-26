@@ -46,17 +46,10 @@ I build Flutter & FlutterFlow apps, sell UI templates on the marketplace, and sh
 ### 📊 Stats
 
 <table style="border:none;border-collapse:collapse"><tr style="border:none">
-<td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api?username=amsarkar66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=250"/></td>
-<td style="border:none;padding:0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsarkar66&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=250&hide=objective-c"/></td>
+<td style="border:none;padding:0"><img src="https://github-readme-stats-fast.vercel.app/api?username=amsarkar66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=250"/></td>
+<td style="border:none;padding:0"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amsarkar66&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=250&hide=objective-c"/></td>
 <td style="border:none;padding:0"><img src="https://streak-stats.demolab.com?user=amsarkar66&theme=tokyonight&hide_border=true&card_width=250"/></td>
 </tr></table>
-
----
-
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amsarkar66&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=true&days=365)
-
 
 ### 🤝 Let's work together
 
